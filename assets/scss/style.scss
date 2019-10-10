@@ -15,7 +15,7 @@ body{
     padding: 0;
     }
     
-    ul li{
+    .green{
     list-style: none;
     display: inline-block;
     padding: 20px;
@@ -25,7 +25,7 @@ body{
     background: darkgreen;
     }
     
-    ul li a{
+  .green a{
     color: #fff;
     text-decoration: none;
     }
@@ -34,7 +34,7 @@ body{
     ul{
     width:100%;
     }
-    ul li{
+   .green{
     display: block;
     text-align: center;
     }
@@ -59,3 +59,14 @@ img
     width: 50px;
     height: 70px;
 }
+#infos {
+    border: 2px solid darkred;
+    background-color: darkred;
+    color: white;
+    margin: auto;
+    }
+    
+    .foot-title {
+    font-weight: bold;
+    font-style: italic;
+    }
