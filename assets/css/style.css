@@ -68,4 +68,21 @@ h3 {
   font-weight: bold;
   font-style: italic;
   }
+  #infos {
+    border: 2px solid darkred;
+    background-color: darkred;
+    color: white;
+    margin: auto;
+    }
+    
+    .foot-title {
+    font-weight: bold;
+    font-style: italic;
+    }
+    
+    .icon {
+    height: 3em;
+    width: 3em;
+    }
+    
 /*# sourceMappingURL=style.css.map */
