@@ -84,5 +84,13 @@ h3 {
     height: 3em;
     width: 3em;
     }
+    li
+    {
+      list-style: none;
+    }
+    .meh
+    {
+      margin:3%;
+    }
     
 /*# sourceMappingURL=style.css.map */
